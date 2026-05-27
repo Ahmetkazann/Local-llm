@@ -6,7 +6,8 @@ This boilerplate provides a complete starting point for building your local AI a
 
 * 
 
-https://github.com/user-attachments/assets/f25beb41-9a80-4a73-99ef-106933da96bf
+![Uploading 2026-05-27 18-48-11.gif…]()
+
 
 
 # The Local LLM Crash Course - Build Your Own GPT in 2 hours!
