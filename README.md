@@ -3,6 +3,12 @@ This boilerplate provides a complete starting point for building your local AI a
 * **Chatbot UI:** A clean, user-friendly interface powered by Chainlit/Streamlit to interact with your model.
 * **Basic Template:** A ready-to-use codebase skeleton, making it easy to swap models or prompt structures.
 * **Chat History:** Built-in memory management to keep track of the conversation context seamlessly.
+
+* 
+
+https://github.com/user-attachments/assets/f25beb41-9a80-4a73-99ef-106933da96bf
+
+
 # The Local LLM Crash Course - Build Your Own GPT in 2 hours!
 This is the courseware and Codespace for the [The Local LLM Crash Course - Build Your Own GPT in 2 hours](https://www.udemy.com/course/the-local-llm-crash-course-build-a-hugging-face-ai-chatbot/?referralCode=EAD6017AA0001257DD9A)! Have fun with the course and use the Q&A if you run into any issues!
 
