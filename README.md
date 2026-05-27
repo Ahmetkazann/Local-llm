@@ -2,9 +2,8 @@
 This boilerplate provides a complete starting point for building your local AI assistant:
 * **Chatbot UI:** A clean, user-friendly interface powered by Chainlit/Streamlit to interact with your model.
 * **Basic Template:** A ready-to-use codebase skeleton, making it easy to swap models or prompt structures.
-* **Chat History:** Built-in memory management to keep track of the conversation context seamlessly.
+* **Chat History:** Chat memory management to keep track of the conversation context seamlessly.
 
-* 
 <img width="1920" height="1080" alt="basicchatbot" src="https://github.com/user-attachments/assets/2ee7b7f8-c9f6-442c-8cc3-8ec3005e9c58" />
 
 # The Local LLM Crash Course - Build Your Own GPT in 2 hours!
