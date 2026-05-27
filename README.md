@@ -5,10 +5,7 @@ This boilerplate provides a complete starting point for building your local AI a
 * **Chat History:** Built-in memory management to keep track of the conversation context seamlessly.
 
 * 
-
-![Uploading 2026-05-27 18-48-11.gif…]()
-
-
+<img width="1920" height="1080" alt="basicchatbot" src="https://github.com/user-attachments/assets/2ee7b7f8-c9f6-442c-8cc3-8ec3005e9c58" />
 
 # The Local LLM Crash Course - Build Your Own GPT in 2 hours!
 This is the courseware and Codespace for the [The Local LLM Crash Course - Build Your Own GPT in 2 hours](https://www.udemy.com/course/the-local-llm-crash-course-build-a-hugging-face-ai-chatbot/?referralCode=EAD6017AA0001257DD9A)! Have fun with the course and use the Q&A if you run into any issues!
